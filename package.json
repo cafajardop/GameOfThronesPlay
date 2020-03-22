@@ -17,14 +17,17 @@
     "@angular/common": "^6.1.0",
     "@angular/compiler": "^6.1.0",
     "@angular/core": "^6.1.0",
+    "@angular/fire": "^5.0.0-rc.9",
     "@angular/forms": "^6.1.0",
     "@angular/http": "^6.1.0",
     "@angular/platform-browser": "^6.1.0",
     "@angular/platform-browser-dynamic": "^6.1.0",
     "@angular/router": "^6.1.0",
-    "@swimlane/ngx-charts": "^13.0.2",
+    "@swimlane/ngx-charts": "^12.0.1",
     "core-js": "^2.5.4",
+    "firebase": "^7.12.0",
     "rxjs": "~6.2.0",
+    "sweetalert2": "^9.10.5",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
